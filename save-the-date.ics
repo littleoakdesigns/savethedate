@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Francesca and Jody//Save the Date//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:francesca-jody-wedding-20270710@savethedate
+DTSTAMP:20261030T221258Z
+DTSTART;VALUE=DATE:20270710
+DTEND;VALUE=DATE:20270711
+SUMMARY:Francesca & Jody's Wedding
+LOCATION:Farbridge\, West Dean\, Chichester\, West Sussex PO18 0JT\, Engla
+ nd
+DESCRIPTION:Save the date! Francesca & Jody are getting married on Saturda
+ y 10th July 2027 at Farbridge\, near Chichester. Invitation to follow.
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
